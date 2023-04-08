@@ -13,7 +13,7 @@ This repository contains the implementation of a two-layer neural network for ha
 ## Getting Started
 
 1. Clone this repository.
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/Daisy1203/MNIST-Neural-Network.git
 cd MNIST-Neural-Network
 
 2. Download the MNIST dataset and place it in the project folder.
